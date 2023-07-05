@@ -2,4 +2,5 @@
 a=1
 b=2
 c=3
-total =a+b+c
+d=4
+total =a+b+c+d
